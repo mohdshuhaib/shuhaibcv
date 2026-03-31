@@ -104,7 +104,7 @@ const projects = [
   { title: "Tammaz Restaurant saudi", category: "Web design", image: "/tammaz.png", link: "https://tammaz.net/" },
   { title: "Pothu Way fest", category: "Web development", image: "/pothuport.png", link: "https://pmsamasa.github.io/fest/" },
   { title: "Pachamme Tottoli fest", category: "Web development", image: "/pachammeport.png", link: "https://masapmsa2025.github.io/fest/" },
-  { title: "Portfolio Basith", category: "Web design", image: "https://github.com/mohdshuhaib/myImages/blob/main/basiport.png?raw=true", link: "https://basithmanoor.github.io/portfolio/" },
+  { title: "Portfolio Basith", category: "Web design", image: "https://github.com/mohdshuhaib/myImages/blob/main/basiport.png?raw=true", link: "https://basithmanoorcv.vercel.app/" },
   { title: "Portfolio Murshid", category: "Web design", image: "https://github.com/mohdshuhaib/myImages/blob/main/murshiport.png?raw=true", link: "https://mohdmurshi.github.io/murshidcv/" },
   { title: "Samastha Motto Competition", category: "Others", image: "https://github.com/mohdshuhaib/myImages/blob/main/motto.png?raw=true", link: "https://inshirah-pmsa.github.io/samasthaMotto/" },
   { title: "WSF Sports Meet Dashboard", category: "Web development", image: "https://github.com/mohdshuhaib/myImages/blob/main/wafysports.png?raw=true", link: "https://5thwafysports.vercel.app/" },
