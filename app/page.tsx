@@ -108,6 +108,7 @@ const projects = [
   { title: "Portfolio Murshid", category: "Web design", image: "https://github.com/mohdshuhaib/myImages/blob/main/murshiport.png?raw=true", link: "https://mohdmurshi.github.io/murshidcv/" },
   { title: "Samastha Motto Competition", category: "Others", image: "https://github.com/mohdshuhaib/myImages/blob/main/motto.png?raw=true", link: "https://inshirah-pmsa.github.io/samasthaMotto/" },
   { title: "WSF Sports Meet Dashboard", category: "Web development", image: "https://github.com/mohdshuhaib/myImages/blob/main/wafysports.png?raw=true", link: "https://5thwafysports.vercel.app/" },
+  { title: "PMJ Masjid", category: "Web development", image: "https://raw.githubusercontent.com/mohdshuhaib/myImages/refs/heads/main/pmj.png", link: "https://pmjmasjid.vercel.app/" },
 ];
 
 // --- 3D TILT CARD WRAPPER ---
